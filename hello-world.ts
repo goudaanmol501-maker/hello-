@@ -12,4 +12,5 @@ function printTable(num: number): void {
 printTable(2);
 printTable(3);
 printTable(5);
-printTable(7);
+
+printTable(10);
